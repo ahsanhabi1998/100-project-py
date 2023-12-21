@@ -1,0 +1,8 @@
+
+number = int(input("inter your namber :"))  
+if number > 0:
+    print("positive number")
+elif number== 0:
+    print("it is zero:")
+else:
+    print("negative number:")
